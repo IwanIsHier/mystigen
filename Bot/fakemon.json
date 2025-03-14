@@ -1,0 +1,604 @@
+{
+    "gumgator": {
+        "name": "Gumgator",
+        "shiny_name": "Shiny Gumgator ✨",
+
+        "description": "[missingData]",
+        "shiny_description": ".",
+
+        "image": "./images/fakemon/Gumgator.png",
+        "shiny_image": "./images/fakemon/Gumgator-shiny.png", 
+        "mega": "./images/fakemon/Gumgator-mega.png",
+        "shiny_mega": "./images/fakemon/Gumgator-shiny-mega.png",
+        "dynamax": "./images/fakemon/Gumgator-dynamax.png",
+        "shiny_dynamax": "./images/fakemon/Gumgator-shiny-dynamax.png",
+        
+        "pixelSprite": "./images/fakemon/Gumgator-pixelSprite.png",
+        "shiny_pixelSprite": "./images/fakemon/Gumgator-shiny-pixelSprite.png",
+
+        "background-image": "./images/fakemon/backgrounds/grass.png",
+    
+        "rarity": "Starter",
+        "evolve_method": "Gumgator evolves to Erigator starting from level 16.",
+        "typing": ["Water"], 
+        "region": "[missingData]",
+        "catchable": "Yes",
+        "base_stats": {
+            "hp": 50,
+            "attack": 55,
+            "defense": 50,
+            "sp_atk": 50,
+            "sp_def": 50,
+            "speed": 60,
+            "total": 315
+        },
+        "names": {
+            "english": ":flag_gb: Gumgator",
+            "japanese": ":flag_jp: カミナミ",
+            "japanese2": ":flag_jp: Kaminami",
+            "french": ":flag_fr: Croqueau",
+            "german": ":flag_de: Wassergator"
+        },     
+        "appearance": {
+            "height": "[missingData]",
+            "weight": "[missingData]"
+        },
+        "gender_ratio": "<:male:1252436979837304893> 50% male, <:female:1252436967052939284> 50% female"
+    },
+    "erigator": {
+            "name": "Erigator",
+            "shiny_name": "Shiny Erigator ✨",
+
+            "description": "[missingData]",
+            "shiny_description": ".",
+
+            "image": "./images/fakemon/Erigator.png",
+            "shiny_image": "./images/fakemon/Erigator-shiny.png",  
+            "mega": "./images/fakemon/Erigator-mega.png",
+            "shiny_mega": "./images/fakemon/Erigator-shiny-mega.png",
+            "dynamax": "./images/fakemon/Erigator-dynamax.png",
+            "shiny_dynamax": "./images/fakemon/Erigator-shiny-dynamax.png",
+            
+            "pixelSprite": "./images/fakemon/Erigator-pixelSprite.png",
+            "shiny_pixelSprite": "./images/fakemon/Erigator-shiny-pixelSprite.png",
+    
+            "background-image": "./images/fakemon/backgrounds/grass.png",
+        
+            "rarity": "Starter",
+            "evolve_method": "Erigator evolves to Montigator starting from level 33.",
+            "typing": ["Water"], 
+            "region": "[missingData]",
+            "catchable": "Yes",
+            "base_stats": {
+                "hp": 70,
+                "attack": 75,
+                "defense": 65,
+                "sp_atk": 60,
+                "sp_def": 60,
+                "speed": 75,
+                "total": 405
+            },
+            "names": {
+                "english": ":flag_gb: Erigator",
+                "japanese": ":flag_jp: エリガミズ",
+                "japanese2": ":flag_jp: Erigamizu",
+                "french": ":flag_fr: Crocotorrent",
+                "german": ":flag_de: Wasserkrall"
+            },     
+            "appearance": {
+                "height": "[missingData]",
+                "weight": "[missingData]"
+            },
+            "gender_ratio": "<:male:1252436979837304893> 50% male, <:female:1252436967052939284> 50% female"
+    },
+    "montigator": {
+            "name": "Montigator",
+            "shiny_name": "Shiny Montigator ✨",
+
+            "description": "[missingData]",
+            "shiny_description": ".",
+
+            "image": "./images/fakemon/Montigator.png",
+            "shiny_image": "./images/fakemon/Montigator-shiny.png",  
+            "mega": "./images/fakemon/Montigator-mega.png",
+            "shiny_mega": "./images/fakemon/Montigator-shiny-mega.png",
+            "dynamax": "./images/fakemon/Montigator-dynamax.png",
+            "shiny_dynamax": "./images/fakemon/Montigator-shiny-dynamax.png",
+            
+            "pixelSprite": "./images/fakemon/Montigator-pixelSprite.png",
+            "shiny_pixelSprite": "./images/fakemon/Montigator-shiny-pixelSprite.png",
+    
+            "background-image": "./images/fakemon/backgrounds/grass.png",
+        
+            "rarity": "Starter",
+            "evolve_method": "Montigator evolves from Erigator starting from level 33.",
+            "typing": ["Water", "Fighting"], 
+            "region": "[missingData]",
+            "catchable": "Yes",
+            "base_stats": {
+                "hp": 90,
+                "attack": 115,
+                "defense": 85,
+                "sp_atk": 80,
+                "sp_def": 80,
+                "speed": 85,
+                "total": 535
+            },
+            "names": {
+                "english": ":flag_gb: Montigator",
+                "japanese": ":flag_jp: カミクラッシャー",
+                "japanese2": ":flag_jp: Kamikurassha",
+                "french": ":flag_fr: Hydrolutte",
+                "german": ":flag_de: Wasserkampf"
+            },     
+            "appearance": {
+                "height": "[missingData]",
+                "weight": "[missingData]"
+            },
+            "gender_ratio": "<:male:1252436979837304893> 50% male, <:female:1252436967052939284> 50% female"
+    },
+
+
+
+
+    "minivol": {
+        "name": "Minivol",
+        "shiny_name": "Shiny Minivol ✨",
+
+        "description": "[missingData]",
+        "shiny_description": ".",
+
+        "image": "./images/fakemon/Minivol.png",
+        "shiny_image": "./images/fakemon/Minivol-shiny.png",  
+        "mega": "./images/fakemon/Minivol-mega.png",
+        "shiny_mega": "./images/fakemon/Minivol-shiny-mega.png",
+        "dynamax": "./images/fakemon/Minivol-dynamax.png",
+        "shiny_dynamax": "./images/fakemon/Minivol-shiny-dynamax.png",
+        
+        "pixelSprite": "./images/fakemon/Minivol-pixelSprite.png",
+        "shiny_pixelSprite": "./images/fakemon/Minivol-shiny-pixelSprite.png",
+
+        "background-image": "./images/fakemon/backgrounds/grass.png",
+       
+        "rarity": "Pseudo-Legendary",
+        "evolve_method": "Minivol evolves to Maxivol starting from level 56.",
+        "typing": ["Normal"], 
+        "region": "[missingData]",
+        "catchable": "Yes",
+        "base_stats": {
+            "hp": 45,
+            "attack": 55,
+            "defense": 40,
+            "sp_atk": 50,
+            "sp_def": 40,
+            "speed": 60,
+            "total": 290
+        },
+        "names": {
+            "english": ":flag_gb: Minivol",
+            "japanese": ":flag_jp: チリンビョ",
+            "japanese2": ":flag_jp: Chirinbyo",
+            "french": ":flag_fr: Cympillon",
+            "german": ":flag_de: Vibukle"
+        },     
+        "appearance": {
+            "height": "[missingData]",
+            "weight": "[missingData]"
+        },
+        "gender_ratio": "<:male:1252436979837304893> 50% male, <:female:1252436967052939284> 50% female"
+    },
+    "maxivol": {
+        "name": "Maxivol",
+        "shiny_name": "Shiny Maxivol ✨",
+
+        "description": "[missingData]",
+        "shiny_description": ".",
+
+        "image": "./images/fakemon/Maxivol.png",
+        "shiny_image": "./images/fakemon/Maxivol-shiny.png", 
+        "mega": "./images/fakemon/Maxivol-mega.png",
+        "shiny_mega": "./images/fakemon/Maxivol-shiny-mega.png",
+        "dynamax": "./images/fakemon/Maxivol-dynamax.png",
+        "shiny_dynamax": "./images/fakemon/Maxivol-shiny-dynamax.png",
+        
+        "pixelSprite": "./images/fakemon/Maxivol-pixelSprite.png",
+        "shiny_pixelSprite": "./images/fakemon/Maxivol-shiny-pixelSprite.png",
+
+        "background-image": "./images/fakemon/backgrounds/grass.png", 
+       
+        "rarity": "Pseudo-Legendary",
+        "evolve_method": "Maxivol evolves from Minivol starting from level 56.",
+        "typing": ["Normal", "Dark"], 
+        "region": "[missingData]",
+        "catchable": "Yes",
+        "base_stats": {
+            "hp": 70,
+            "attack": 90,
+            "defense": 65,
+            "sp_atk": 70,
+            "sp_def": 65,
+            "speed": 95,
+            "total": 455
+        },
+        "names": {
+            "english": ":flag_gb: Maxivol",
+            "japanese": ":flag_jp: クモックス",
+            "japanese2": ":flag_jp: Kumokkusu",
+            "french": ":flag_fr: Ténivol",
+            "german": ":flag_de: Schivolt"
+        },     
+        "appearance": {
+            "height": "[missingData]",
+            "weight": "[missingData]"
+        },
+        "gender_ratio": "<:male:1252436979837304893> 50% male, <:female:1252436967052939284> 50% female"
+    },
+    "nightmarrion": {
+        "name": "Nightmarrion",
+        "shiny_name": "Shiny Nightmarrion ✨",
+
+        "description": "[missingData]",
+        "shiny_description": ".",
+
+        "image": "./images/fakemon/Nightmarrion.png",
+        "shiny_image": "./images/fakemon/Nightmarrion-shiny.png",  
+        "mega": "./images/fakemon/Nightmarrion-mega.png",
+        "shiny_mega": "./images/fakemon/Nightmarrion-shiny-mega.png",
+        "dynamax": "./images/fakemon/Nightmarrion-dynamax.png",
+        "shiny_dynamax": "./images/fakemon/Nightmarrion-shiny-dynamax.png",
+        
+        "pixelSprite": "./images/fakemon/Nightmarrion-pixelSprite.png",
+        "shiny_pixelSprite": "./images/fakemon/Nightmarrion-shiny-pixelSprite.png",
+
+        "background-image": "./images/fakemon/backgrounds/grass.png",
+       
+        "rarity": "[missingData]",
+        "evolve_method": "[missingData]",
+        "typing": ["Ghost", "Fairy"], 
+        "region": "[missingData]",
+        "catchable": "Yes",
+        "base_stats": {
+            "hp": 85,
+            "attack": 75,
+            "defense": 60,
+            "sp_atk": 110,
+            "sp_def": 95,
+            "speed": 100,
+            "total": 525
+        },
+        "names": {
+            "english": ":flag_gb: Nightmarrion",
+            "japanese": ":flag_jp: ユウレイザキ",
+            "japanese2": ":flag_jp: Yūreizaki",
+            "french": ":flag_fr: Fantomélodie",
+            "german": ":flag_de: Nachtfee"
+        },     
+        "appearance": {
+            "height": "[missingData]",
+            "weight": "[missingData]"
+        },
+        "gender_ratio": "<:male:1252436979837304893> 50% male, <:female:1252436967052939284> 50% female"
+    },
+    "jaxis": {
+            "name": "Jaxis",
+            "shiny_name": "Shiny Jaxis ✨",
+
+            "description": "[missingData]",
+            "shiny_description": ".",
+
+            "image": "./images/fakemon/Jaxis.png",
+            "shiny_image": "./images/fakemon/Jaxis-shiny.png",  
+            "mega": "./images/fakemon/Jaxis-mega.png",
+            "shiny_mega": "./images/fakemon/Jaxis-shiny-mega.png",
+            "dynamax": "./images/fakemon/Jaxis-dynamax.png",
+            "shiny_dynamax": "./images/fakemon/Jaxis-shiny-dynamax.png",
+            
+            "pixelSprite": "./images/fakemon/Jaxis-pixelSprite.png",
+            "shiny_pixelSprite": "./images/fakemon/Jaxis-shiny-pixelSprite.png",
+    
+            "background-image": "./images/fakemon/backgrounds/grass.png",
+        
+            "rarity": "Uncommon",
+            "evolve_method": "-",
+            "typing": ["Electric", "Psychic"], 
+            "region": "[missingData]",
+            "catchable": "Yes",
+            "base_stats": {
+                "hp": 100,
+                "attack": 90,
+                "defense": 115,
+                "sp_atk": 130,
+                "sp_def": 115,
+                "speed": 110,
+                "total": 660
+            },
+            "names": {
+                "english": ":flag_gb: Jaxis",
+                "japanese": ":flag_jp: テレサージ",
+                "japanese2": ":flag_jp: Teresāji",
+                "french": ":flag_fr: Électhyn",
+                "german": ":flag_de: Blitzgeist"
+            },     
+            "appearance": {
+                "height": "[missingData]",
+                "weight": "[missingData]"
+            },
+            "gender_ratio": "<:male:1252436979837304893> 50% male, <:female:1252436967052939284> 50% female"
+    },
+    "helioloss": {
+        "name": "Helioloss",
+        "shiny_name": "Shiny Helioloss ✨",
+
+        "description": "[missingData]",
+        "shiny_description": ".",
+
+        "image": "./images/fakemon/Helioloss.png",
+        "shiny_image": "./images/fakemon/Helioloss-shiny.png",  
+        "mega": "./images/fakemon/Helioloss-mega.png",
+        "shiny_mega": "./images/fakemon/Helioloss-shiny-mega.png",
+        "dynamax": "./images/fakemon/Helioloss-dynamax.png",
+        "shiny_dynamax": "./images/fakemon/Helioloss-shiny-dynamax.png",
+        
+        "pixelSprite": "./images/fakemon/Helioloss-pixelSprite.png",
+        "shiny_pixelSprite": "./images/fakemon/Helioloss-shiny-pixelSprite.png",
+
+        "background-image": "./images/fakemon/backgrounds/grass.png",
+       
+        "rarity": "Common",
+        "evolve_method": "--",
+        "typing": ["Ghost", "Ground"], 
+        "region": "[missingData]",
+        "catchable": "Yes",
+        "base_stats": {
+            "hp": 62,
+            "attack": 55,
+            "defense": 52,
+            "sp_atk": 109,
+            "sp_def": 94,
+            "speed": 109,
+            "total": 481
+        },
+        "names": {
+            "english": ":flag_gb: Helioloss",
+            "japanese": ":flag_jp: シャドロス",
+            "japanese2": ":flag_jp: Shadorosu",
+            "french": ":flag_fr: Fantérron",
+            "german": ":flag_de: Geoschatt"
+        },     
+        "appearance": {
+            "height": "[missingData]",
+            "weight": "[missingData]"
+        },
+        "gender_ratio": "<:male:1252436979837304893> 50% male, <:female:1252436967052939284> 50% female"
+    },
+    "mentamite": {
+        "name": "Mentamite",
+        "shiny_name": "Shiny Mentamite ✨",
+
+        "description": "[missingData]",
+        "shiny_description": ".",
+
+        "image": "./images/fakemon/Mentamite.png",
+        "shiny_image": "./images/fakemon/Mentamite-shiny.png",  
+        "mega": "./images/fakemon/Mentamite-mega.png",
+        "shiny_mega": "./images/fakemon/Mentamite-shiny-mega.png",
+        "dynamax": "./images/fakemon/Mentamite-dynamax.png",
+        "shiny_dynamax": "./images/fakemon/Mentamite-shiny-dynamax.png",
+        
+        "pixelSprite": "./images/fakemon/Mentamite-pixelSprite.png",
+        "shiny_pixelSprite": "./images/fakemon/Mentamite-shiny-pixelSprite.png",
+
+        "background-image": "./images/fakemon/backgrounds/grass.png",
+       
+        "rarity": "Common",
+        "evolve_method": "Mentamite evolves to Mentrattel starting from level 56.",
+        "typing": ["Psychic", "Rock"], 
+        "region": "[missingData]",
+        "catchable": "Yes",
+        "base_stats": {
+            "hp": 70,
+            "attack": 70,
+            "defense": 115,
+            "sp_atk": 130,
+            "sp_def": 90,
+            "speed": 60,
+            "total": 535
+        },
+        "names": {
+            "english": ":flag_gb: Mentamite",
+            "japanese": ":flag_jp: サイコイシ",
+            "japanese2": ":flag_jp: Saikoishi",
+            "french": ":flag_fr: Espritard",
+            "german": ":flag_de: Klastimind"
+        },     
+        "appearance": {
+            "height": "[missingData]",
+            "weight": "[missingData]"
+        },
+        "gender_ratio": "<:male:1252436979837304893> 50% male, <:female:1252436967052939284> 50% female"
+    },
+    "mentrattel": {
+        "name": "Mentrattel",
+        "shiny_name": "Shiny Mentrattel ✨",
+
+        "description": "[missingData]",
+        "shiny_description": ".",
+
+        "image": "./images/fakemon/Mentrattel.png",
+        "shiny_image": "./images/fakemon/Mentrattel-shiny.png",  
+        "mega": "./images/fakemon/Mentrattel-mega.png",
+        "shiny_mega": "./images/fakemon/Mentrattel-shiny-mega.png",
+        "dynamax": "./images/fakemon/Mentrattel-dynamax.png",
+        "shiny_dynamax": "./images/fakemon/Mentrattel-shiny-dynamax.png",
+        
+        "pixelSprite": "./images/fakemon/Mentrattel-pixelSprite.png",
+        "shiny_pixelSprite": "./images/fakemon/Mentrattel-shiny-pixelSprite.png",
+
+        "background-image": "./images/fakemon/backgrounds/grass.png",
+       
+        "rarity": "Uncommon",
+        "evolve_method": "Mentrattel evolves from Mentamite starting from level 56.",
+        "typing": ["Psychic", "Rock"], 
+        "region": "[missingData]",
+        "catchable": "Yes",
+        "base_stats": {
+            "hp": 110,
+            "attack": 70,
+            "defense": 115,
+            "sp_atk": 130,
+            "sp_def": 110,
+            "speed": 95,
+            "total": 630
+        },
+        "names": {
+            "english": ":flag_gb: Mentrattel",
+            "japanese": ":flag_jp: メガイシン",
+            "japanese2": ":flag_jp: Megaishin",
+            "french": ":flag_fr: Espritfort",
+            "german": ":flag_de: Geoberserk"
+        },     
+        "appearance": {
+            "height": "[missingData]",
+            "weight": "[missingData]"
+        },
+        "gender_ratio": "<:male:1252436979837304893> 50% male, <:female:1252436967052939284> 50% female"
+    },
+    "hedlocke": {
+        "name": "Hedlocke",
+        "shiny_name": "Shiny Hedlocke ✨",
+
+        "description": "[missingData]",
+        "shiny_description": ".",
+
+        "image": "./images/fakemon/Hedlocke.png",
+        "shiny_image": "./images/fakemon/Hedlocke-shiny.png",  
+        "mega": "./images/fakemon/Hedlocke-mega.png",
+        "shiny_mega": "./images/fakemon/Hedlocke-shiny-mega.png",
+        "dynamax": "./images/fakemon/Hedlocke-dynamax.png",
+        "shiny_dynamax": "./images/fakemon/Hedlocke-shiny-dynamax.png",
+        
+        "pixelSprite": "./images/fakemon/Hedlocke-pixelSprite.png",
+        "shiny_pixelSprite": "./images/fakemon/Hedlocke-shiny-pixelSprite.png",
+
+        "background-image": "./images/fakemon/backgrounds/grass.png",
+       
+        "rarity": "Common",
+        "evolve_method": "--",
+        "typing": ["Fighting"], 
+        "region": "[missingData]",
+        "catchable": "Yes",
+        "base_stats": {
+            "hp": 125,
+            "attack": 125,
+            "defense": 80,
+            "sp_atk": 30,
+            "sp_def": 80,
+            "speed": 65,
+            "total": 505
+        },
+        "names": {
+            "english": ":flag_gb: Hedlocke",
+            "japanese": ":flag_jp: カンロック",
+            "japanese2": ":flag_jp: Kanrokku",
+            "french": ":flag_fr: Karatrou",
+            "german": ":flag_de: Schlakmeister"
+        },     
+        "appearance": {
+            "height": "[missingData]",
+            "weight": "[missingData]"
+        },
+        "gender_ratio": "<:male:1252436979837304893> 50% male, <:female:1252436967052939284> 50% female"
+    },
+    "simisurge": {
+        "name": "Simisurge",
+        "shiny_name": "Shiny Simisurge ✨",
+
+        "description": "[missingData]",
+        "shiny_description": ".",
+
+        "image": "./images/fakemon/Simisurge.png",
+        "shiny_image": "./images/fakemon/Simisurge-shiny.png",  
+        "mega": "./images/fakemon/Simisurge-mega.png",
+        "shiny_mega": "./images/fakemon/Simisurge-shiny-mega.png",
+        "dynamax": "./images/fakemon/Simisurge-dynamax.png",
+        "shiny_dynamax": "./images/fakemon/Simisurge-shiny-dynamax.png",
+        
+        "pixelSprite": "./images/fakemon/Simisurge-pixelSprite.png",
+        "shiny_pixelSprite": "./images/fakemon/Simisurge-shiny-pixelSprite.png",
+
+        "background-image": "./images/fakemon/backgrounds/grass.png",
+       
+        "rarity": "Common",
+        "evolve_method": "--",
+        "typing": ["Electric"], 
+        "region": "[missingData]",
+        "catchable": "Yes",
+        "base_stats": {
+            "hp": 75,
+            "attack": 98, 
+            "defense": 63,
+            "sp_atk": 98,
+            "sp_def": 63,
+            "speed": 101,
+            "total": 498
+        },
+        "names": {
+            "english": ":flag_gb: Simisurge",
+            "japanese": ":flag_jp: デンキザル",
+            "japanese2": ":flag_jp: Denkizaru",
+            "french": ":flag_fr: Voltango",
+            "german": ":flag_de: Blitzaffe"
+        },     
+        "appearance": {
+            "height": "[missingData]",
+            "weight": "[missingData]"
+        },
+        "gender_ratio": "<:male:1252436979837304893> 50% male, <:female:1252436967052939284> 50% female"
+    },
+    "sporivine": {
+        "name": "Sporivine",
+        "shiny_name": "Shiny Sporivine ✨",
+
+        "description": "[missingData]",
+        "shiny_description": ".",
+
+        "image": "./images/fakemon/Sporivine.png",
+        "shiny_image": "./images/fakemon/Sporivine-shiny.png",  
+        "mega": "./images/fakemon/Sporivine-mega.png",
+        "shiny_mega": "./images/fakemon/Sporivine-shiny-mega.png",
+        "dynamax": "./images/fakemon/Sporivine-dynamax.png",
+        "shiny_dynamax": "./images/fakemon/Sporivine-shiny-dynamax.png",
+        
+        "pixelSprite": "./images/fakemon/Sporivine-pixelSprite.png",
+        "shiny_pixelSprite": "./images/fakemon/Sporivine-shiny-pixelSprite.png",
+
+        "background-image": "./images/fakemon/backgrounds/grass.png",
+       
+        "rarity": "Uncommon",
+        "evolve_method": "--",
+        "typing": ["Grass", "Dragon"], 
+        "region": "[missingData]",
+        "catchable": "Yes",
+        "base_stats": {
+            "hp": 74,
+            "attack": 100,
+            "defense": 72,
+            "sp_atk": 110,
+            "sp_def": 72,
+            "speed": 46,
+            "total": 474
+        },
+        "names": {
+            "english": ":flag_gb: Sporivine",
+            "japanese": ":flag_jp: ソウリュウ",
+            "japanese2": ":flag_jp: Sōryū",
+            "french": ":flag_fr: Végodra",
+            "german": ":flag_de: Rankendrako"
+        },     
+        "appearance": {
+            "height": "[missingData]",
+            "weight": "[missingData]"
+        },
+        "gender_ratio": "<:male:1252436979837304893> 50% male, <:female:1252436967052939284> 50% female"
+    }
+}

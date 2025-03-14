@@ -1,0 +1,42 @@
+{
+    "565805565624975382": {
+        "balance": 105,
+        "badges": [],
+        "selected": [
+            "Hedlocke"
+        ],
+        "fakemon": [
+            {
+                "id": 4,
+                "name": "Hedlocke",
+                "level": 21,
+                "iv": {
+                    "hp": 10,
+                    "attack": 17,
+                    "defense": 8,
+                    "spAtk": 12,
+                    "spDef": 21,
+                    "speed": 25
+                },
+                "totalIVPercentage": "50.00"
+            },
+            {
+                "id": 2,
+                "name": "Hedlocke",
+                "level": 1,
+                "iv": {
+                    "hp": 26,
+                    "attack": 6,
+                    "defense": 5,
+                    "spAtk": 19,
+                    "spDef": 21,
+                    "speed": 12
+                },
+                "totalIVPercentage": "47.85"
+            }
+        ],
+        "registered": [
+            "Hedlocke"
+        ]
+    }
+}
